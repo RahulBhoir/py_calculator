@@ -1,2 +1,3 @@
-# py_calculator
+# calculator
+
 Calculator using tkinter
